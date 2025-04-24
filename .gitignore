@@ -1,0 +1,68 @@
+# Android Studio
+.idea/
+*.iml
+
+# Build output
+/build/
+*/build/
+
+# Local configuration file (sdk path etc)
+local.properties
+
+# Gradle
+.gradle/
+!gradle/wrapper/gradle-wrapper.jar
+
+# Log & temp files
+*.log
+*.tmp
+*.temp
+*.bak
+*.swp
+*.swo
+*.DS_Store
+
+# OS-specific
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Kotlin
+*.class
+*.jar
+*.war
+*.ear
+
+# Keystore files
+*.jks
+*.keystore
+
+# Firebase / Crashlytics
+crashlytics-build.properties
+fabric.properties
+
+# Others
+.cxx/
+.externalNativeBuild/
+captures/
+outputs/
+
+# Flutter-specific (if applicable)
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.dart_tool/
+build/
+.pub-cache/
+.pub/
+*.lock
+
+# IntelliJ
+out/
+
+# NDK
+obj/

@@ -1,0 +1,24 @@
+{
+  "DATA_NEWS": [
+    {
+      "title_news": "Google Perkenalkan Android 15",
+      "link_news": "https://developer.android.com/about/versions/15",
+      "image_link": "https://images.unsplash.com/photo-1603791440384-56cd371ee9a7"
+    },
+    {
+      "title_news": "Kotlin Multiplatform Kini Stabil",
+      "link_news": "https://kotlinlang.org/lp/multiplatform/",
+      "image_link": "https://images.unsplash.com/photo-1547658719-da2b51169166"
+    },
+    {
+      "title_news": "Jetpack Compose Desktop Kini Mendukung Material 3",
+      "link_news": "https://developer.android.com/jetpack/compose/desktop",
+      "image_link": "https://images.unsplash.com/photo-1509395176047-4a66953fd231?w=1080"
+    },
+    {
+      "title_news": "Firebase Tambahkan Dukungan AI",
+      "link_news": "https://firebase.google.com/products/extensions",
+      "image_link": "https://images.unsplash.com/photo-1556740749-887f6717d7e4"
+    }
+  ]
+}
